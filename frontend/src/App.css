@@ -201,6 +201,7 @@ footer p {
   list-style-type: none;
   display: flex;
   flex-direction: column;
+  align-items: flex-end;
 }
 .foot-list a {
   text-decoration: none;
