@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/AILab/static/css/main.e45f298e.css",
+    "main.js": "/AILab/static/js/main.9e2539d1.js",
+    "static/js/453.8ab44547.chunk.js": "/AILab/static/js/453.8ab44547.chunk.js",
+    "static/media/i.png": "/AILab/static/media/i.ee7a4380a3f61953c159.png",
+    "static/media/himgcopy.jpg": "/AILab/static/media/himgcopy.27d1df4129f202f4150e.jpg",
+    "static/media/logoimg.webp": "/AILab/static/media/logoimg.a07fd5461438f99cba85.webp",
+    "index.html": "/AILab/index.html",
+    "main.e45f298e.css.map": "/AILab/static/css/main.e45f298e.css.map",
+    "main.9e2539d1.js.map": "/AILab/static/js/main.9e2539d1.js.map",
+    "453.8ab44547.chunk.js.map": "/AILab/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45f298e.css",
+    "static/js/main.9e2539d1.js"
+  ]
+}
